@@ -1,1 +1,2 @@
-export * from './SwitchComponent';
+export * from './CenteredGrid';
+export * from './CenteredGridWithGridlines';

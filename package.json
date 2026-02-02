@@ -1,5 +1,5 @@
 {
-  "name": "motion-canvas-component-library",
+  "name": "@gerb-24/centered-grid",
   "version": "0.0.0",
   "description": "",
   "scripts": {
@@ -53,5 +53,8 @@
   "lint-staged": {
     "*.{ts,tsx}": "eslint --fix",
     "*.{js,jsx,ts,tsx,md,scss,json,mjs}": "prettier --write"
+  },
+  "dependencies": {
+    "tslib": "^2.8.1"
   }
 }
