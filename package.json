@@ -47,7 +47,7 @@
     "rollup-plugin-dts": "^6.5.1",
     "rollup-plugin-node-externals": "^9.0.1",
     "typescript": "^7.0.2",
-    "vite": "^8.2.2",
+    "vite": "^8.3.0",
     "vite-tsconfig-paths": "^6.1.1"
   },
   "lint-staged": {
